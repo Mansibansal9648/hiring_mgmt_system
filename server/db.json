@@ -1,0 +1,22 @@
+{
+  "profile": [
+    {
+      "name": "Mansi Bansal",
+      "company": "TCS",
+      "designation": "System Engineer",
+      "experience": "2 years",
+      "current_ctc": "8 lpa",
+      "expected_ctc": "14 lpa",
+      "id": 1
+    },
+    {
+      "name": "Rishab",
+      "company": "Accenture",
+      "designation": "Developer",
+      "experience": "1 year",
+      "current_ctc": "5 lpa",
+      "expected_ctc": "7 lpa",
+      "id": 2
+    }
+  ]
+}
